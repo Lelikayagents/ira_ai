@@ -1,0 +1,424 @@
+{
+  "fragment": 2,
+  "source_id": "lawyers-english-language-coursebook",
+  "book_pages": {
+    "first": 101,
+    "last": 200
+  },
+  "pdf": {
+    "file_name": "8f015055-__________________TOLES__LELC_SB_reduced101200.pdf",
+    "page_count": 100,
+    "sha256": "dc2aa8af5c0c933d10570f0343f5d148f980024706be88581ee79a3dbe78b9d6"
+  },
+  "ocr": {
+    "engine": "tesseract",
+    "lang": "eng",
+    "dpi": 300,
+    "renderer": "pymupdf",
+    "colorspace": "gray"
+  },
+  "ingested_on": "2026-08-26",
+  "pages": [
+    {
+      "page": 101,
+      "chars": 1376
+    },
+    {
+      "page": 102,
+      "chars": 1724
+    },
+    {
+      "page": 103,
+      "chars": 2240
+    },
+    {
+      "page": 104,
+      "chars": 2435
+    },
+    {
+      "page": 105,
+      "chars": 2420
+    },
+    {
+      "page": 106,
+      "chars": 1066
+    },
+    {
+      "page": 107,
+      "chars": 2622
+    },
+    {
+      "page": 108,
+      "chars": 2436
+    },
+    {
+      "page": 109,
+      "chars": 1081
+    },
+    {
+      "page": 110,
+      "chars": 1635
+    },
+    {
+      "page": 111,
+      "chars": 726
+    },
+    {
+      "page": 112,
+      "chars": 1728
+    },
+    {
+      "page": 113,
+      "chars": 1052
+    },
+    {
+      "page": 114,
+      "chars": 2082
+    },
+    {
+      "page": 115,
+      "chars": 2523
+    },
+    {
+      "page": 116,
+      "chars": 1158
+    },
+    {
+      "page": 117,
+      "chars": 60
+    },
+    {
+      "page": 118,
+      "chars": 50
+    },
+    {
+      "page": 119,
+      "chars": 2403
+    },
+    {
+      "page": 120,
+      "chars": 2120
+    },
+    {
+      "page": 121,
+      "chars": 2056
+    },
+    {
+      "page": 122,
+      "chars": 2453
+    },
+    {
+      "page": 123,
+      "chars": 1909
+    },
+    {
+      "page": 124,
+      "chars": 1646
+    },
+    {
+      "page": 125,
+      "chars": 2385
+    },
+    {
+      "page": 126,
+      "chars": 3380
+    },
+    {
+      "page": 127,
+      "chars": 2200
+    },
+    {
+      "page": 128,
+      "chars": 2255
+    },
+    {
+      "page": 129,
+      "chars": 3043
+    },
+    {
+      "page": 130,
+      "chars": 2512
+    },
+    {
+      "page": 131,
+      "chars": 2746
+    },
+    {
+      "page": 132,
+      "chars": 2547
+    },
+    {
+      "page": 133,
+      "chars": 1017
+    },
+    {
+      "page": 134,
+      "chars": 2625
+    },
+    {
+      "page": 135,
+      "chars": 1807
+    },
+    {
+      "page": 136,
+      "chars": 45
+    },
+    {
+      "page": 137,
+      "chars": 1625
+    },
+    {
+      "page": 138,
+      "chars": 2648
+    },
+    {
+      "page": 139,
+      "chars": 2116
+    },
+    {
+      "page": 140,
+      "chars": 3030
+    },
+    {
+      "page": 141,
+      "chars": 2125
+    },
+    {
+      "page": 142,
+      "chars": 1821
+    },
+    {
+      "page": 143,
+      "chars": 3832
+    },
+    {
+      "page": 144,
+      "chars": 2311
+    },
+    {
+      "page": 145,
+      "chars": 2198
+    },
+    {
+      "page": 146,
+      "chars": 1748
+    },
+    {
+      "page": 147,
+      "chars": 2383
+    },
+    {
+      "page": 148,
+      "chars": 1179
+    },
+    {
+      "page": 149,
+      "chars": 1185
+    },
+    {
+      "page": 150,
+      "chars": 2493
+    },
+    {
+      "page": 151,
+      "chars": 3766
+    },
+    {
+      "page": 152,
+      "chars": 1759
+    },
+    {
+      "page": 153,
+      "chars": 1247
+    },
+    {
+      "page": 154,
+      "chars": 3206
+    },
+    {
+      "page": 155,
+      "chars": 1929
+    },
+    {
+      "page": 156,
+      "chars": 1582
+    },
+    {
+      "page": 157,
+      "chars": 2259
+    },
+    {
+      "page": 158,
+      "chars": 2049
+    },
+    {
+      "page": 159,
+      "chars": 126
+    },
+    {
+      "page": 160,
+      "chars": 52
+    },
+    {
+      "page": 161,
+      "chars": 3054
+    },
+    {
+      "page": 162,
+      "chars": 2260
+    },
+    {
+      "page": 163,
+      "chars": 1800
+    },
+    {
+      "page": 164,
+      "chars": 3340
+    },
+    {
+      "page": 165,
+      "chars": 3201
+    },
+    {
+      "page": 166,
+      "chars": 2516
+    },
+    {
+      "page": 167,
+      "chars": 3173
+    },
+    {
+      "page": 168,
+      "chars": 3411
+    },
+    {
+      "page": 169,
+      "chars": 1391
+    },
+    {
+      "page": 170,
+      "chars": 599
+    },
+    {
+      "page": 171,
+      "chars": 2256
+    },
+    {
+      "page": 172,
+      "chars": 2315
+    },
+    {
+      "page": 173,
+      "chars": 1787
+    },
+    {
+      "page": 174,
+      "chars": 53
+    },
+    {
+      "page": 175,
+      "chars": 2937
+    },
+    {
+      "page": 176,
+      "chars": 2054
+    },
+    {
+      "page": 177,
+      "chars": 2508
+    },
+    {
+      "page": 178,
+      "chars": 2671
+    },
+    {
+      "page": 179,
+      "chars": 1685
+    },
+    {
+      "page": 180,
+      "chars": 2477
+    },
+    {
+      "page": 181,
+      "chars": 1587
+    },
+    {
+      "page": 182,
+      "chars": 3180
+    },
+    {
+      "page": 183,
+      "chars": 1768
+    },
+    {
+      "page": 184,
+      "chars": 3585
+    },
+    {
+      "page": 185,
+      "chars": 671
+    },
+    {
+      "page": 186,
+      "chars": 2110
+    },
+    {
+      "page": 187,
+      "chars": 1449
+    },
+    {
+      "page": 188,
+      "chars": 2152
+    },
+    {
+      "page": 189,
+      "chars": 1766
+    },
+    {
+      "page": 190,
+      "chars": 1081
+    },
+    {
+      "page": 191,
+      "chars": 60
+    },
+    {
+      "page": 192,
+      "chars": 43
+    },
+    {
+      "page": 193,
+      "chars": 3158
+    },
+    {
+      "page": 194,
+      "chars": 1682
+    },
+    {
+      "page": 195,
+      "chars": 2331
+    },
+    {
+      "page": 196,
+      "chars": 2215
+    },
+    {
+      "page": 197,
+      "chars": 1968
+    },
+    {
+      "page": 198,
+      "chars": 1456
+    },
+    {
+      "page": 199,
+      "chars": 1865
+    },
+    {
+      "page": 200,
+      "chars": 2066
+    }
+  ],
+  "pages_without_text": []
+}

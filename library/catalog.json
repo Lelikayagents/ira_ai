@@ -1,0 +1,20 @@
+{
+  "library": "ira_ai library",
+  "description": "Source texts studied and stored for reuse. Each source lives in library/sources/<source-id>/.",
+  "updated": "2026-08-26",
+  "sources": [
+    {
+      "id": "lawyers-english-language-coursebook",
+      "type": "book",
+      "title": "The Lawyer's English Language Coursebook",
+      "authors": ["Catherine Mason", "Rosemary Atkins"],
+      "publisher": "Global Legal English Ltd",
+      "year": 2007,
+      "language": "en",
+      "topics": ["Legal English", "TOLES Foundation", "TOLES Higher", "English law"],
+      "fragments_held": 2,
+      "pages_held": [1, 200],
+      "path": "sources/lawyers-english-language-coursebook"
+    }
+  ]
+}

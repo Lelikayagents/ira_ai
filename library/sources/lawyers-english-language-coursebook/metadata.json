@@ -1,0 +1,60 @@
+{
+  "id": "lawyers-english-language-coursebook",
+  "type": "book",
+  "title": "The Lawyer's English Language Coursebook",
+  "authors": [
+    "Catherine Mason",
+    "Rosemary Atkins (Solicitor)"
+  ],
+  "publisher": "Global Legal English Ltd",
+  "year": 2007,
+  "copyright": "© Catherine Mason & Rosemary Atkins 2007",
+  "language": "en",
+  "subject": [
+    "Legal English",
+    "English for Specific Purposes",
+    "TOLES exam preparation"
+  ],
+  "exam": {
+    "name": "TOLES (Test of Legal English Skills)",
+    "levels": [
+      "Foundation",
+      "Higher"
+    ]
+  },
+  "legal_systems_covered": [
+    "England and Wales",
+    "United States (comparative notes)"
+  ],
+  "printed_pages_total": 466,
+  "structure_note": "Ten numbered topics. Most topics are split into an A unit (TOLES Foundation level) and a B unit (TOLES Higher level); topic 8 (Modern Letter Writing) is a single unit. The book ends with an Answer Key (p. 415) and Audio transcripts (p. 443).",
+  "publisher_disclaimer": "This book is an English language teaching and studying resource. It is not intended to be used as a source of legal information or advice.",
+  "scan": {
+    "format": "PDF, image-only (no text layer)",
+    "page_numbering": "PDF page N corresponds to printed book page N",
+    "watermark": "Some pages carry a scanner-group watermark ('vk.com/create_your_english'); it is stripped from the extracted text.",
+    "producer_metadata": "iLovePDF"
+  },
+  "fragments_held": [
+    {
+      "fragment": 1,
+      "book_pages": [
+        1,
+        100
+      ]
+    },
+    {
+      "fragment": 2,
+      "book_pages": [
+        101,
+        200
+      ]
+    }
+  ],
+  "coverage_note": "Fragments 1-2 cover the front matter and units 1A through 5B in full, and unit 6A up to printed page 200 (through the section 'Understanding technical words', p. 199). The rest of unit 6A (from p. 201), units 6B-10B, the Answer Key and the Audio transcripts are not yet in the library.",
+  "text_extraction": {
+    "method": "pymupdf render (300 dpi, grayscale) + Tesseract OCR 5.3.4, -l eng --psm 3",
+    "quality": "raw OCR, not proof-read; running heads, page numbers and rotated side tabs may appear as noise lines",
+    "script": "tools/ingest_fragment.py"
+  }
+}

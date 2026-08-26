@@ -1,0 +1,54 @@
+Unit 2B/Higher
+
+THE LANGUAGE OF CONTRACT
+
+Here is an extract from a loan agreement. It is a small part of the contract that Alison Finch has with her
+bank to use online banking services.
+
+| 1. SECURITY MEASURES
+
+134 The Customer is responsible for acting in accordance with all security procedures and
+for making sure that any other Users you have authorised also (a) with
+all security procedures.
+
+T2 The Customer must take all reasonable steps to keep their Password secret and
+must not (b) it to anyone else including family members, Bank staff or
+anyone on our 24-hour helpdesk.
+
+1:3 If the Customer or any User authorised by the Customer thinks that a Password is
+
+known to someone else they must (ce) the Bank immediately. The Bank
+will temporarily (d) the Customer's use of the Online Service until a new
+Password has been created. The Bank will try to resume a Customer's use of the
+Online Service as soon as we possibly can.
+
+2. CARRYING OUT YOUR INSTRUCTIONS
+
+21 The Customer can (e) other Users to use the Online Service. The Bank
+does not need to get further authorisation or confirmation from the Customer.
+
+22 The Customer will not be liable for instruction(s) from themselves or a User under the
+following circumstances:
+
+@ the instruction(s) are received after the Customer has informed us that the Password is
+known to someone else
+
+@ the instruction(s) were given as a result of some breach of security that the Bank does
+not (f) to the Customer or a User
+
+@ The security codes have been breached due to the actions or negligence of
+the Bank.
+
+2:3 The Customer will be liable for instructions in all other cases.
+
+2.4 Once the Customer or a User has given an instruction it is not possible to
+(g) or otherwise withdraw it. If circumstances should occur where the
+Bank (h) it reasonable to try to reverse or otherwise (i) invalid
+an instruction then the Customer will pay any related costs.
+
+2:5 The Bank may not be able to (j) a transaction immediately. If you need
+to be sure that an instruction has reached us or the time when it is carried out is
+particularly important the Customer should call the 24-hour number which was
+provided with their account details.
+
+60 © Catherine Mason & Rosemary Atkins 2007

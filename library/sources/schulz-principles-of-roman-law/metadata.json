@@ -1,0 +1,48 @@
+{
+  "id": "schulz-principles-of-roman-law",
+  "type": "book",
+  "title": "Principles of Roman Law",
+  "authors": [
+    "Fritz Schulz"
+  ],
+  "translator": "Marguerite Wolff (from the German 'Prinzipien des römischen Rechts', 1934)",
+  "publisher": "Clarendon Press, Oxford",
+  "year": 1936,
+  "language": "en",
+  "subject": [
+    "Roman law",
+    "Legal history",
+    "Roman jurisprudence",
+    "Methodology of legal science"
+  ],
+  "structure_note": "A series of chapters, each devoted to one governing principle of Roman law. The fragment held covers chapter IV, 'Abstraction' (pp. 40-65), on the Roman jurists' reluctance to define, to generalize, and to systematize.",
+  "scan": {
+    "format": "PDF with an embedded text layer (OCR of a printed scan)",
+    "page_numbering": "PDF page 1 corresponds to printed book page 40",
+    "producer_metadata": "iLovePDF",
+    "quality_note": "The embedded text layer is unproof-read OCR: ligatures, Latin and Greek words, italic footnote references and running heads are frequently mangled. Corrections were applied only in the translation, not in text/."
+  },
+  "fragments_held": [
+    {
+      "fragment": 1,
+      "book_pages": [
+        40,
+        65
+      ]
+    }
+  ],
+  "coverage_note": "Fragment 1 holds chapter IV ('Abstraction') complete, pp. 40-65, including its footnotes and the bilingual Latin/English reprint of D. 9. 2. 7. 1-8; 9 pr.-4; 11 pr.-5 on pp. 58-62. No other chapter is in the library.",
+  "text_extraction": {
+    "method": "pypdf PdfReader.extract_text() over the PDF's own text layer",
+    "quality": "raw extraction, not proof-read",
+    "script": "ad hoc; tools/ingest_fragment.py was not used because this PDF already carries a text layer"
+  },
+  "translations": [
+    {
+      "language": "ru",
+      "path": "translations/ru/chapter-04-abstraction.md",
+      "covers": "chapter IV, pp. 40-65, complete",
+      "conventions": "Latin and Greek quotations and technical terms are left untranslated in their original form; square brackets inside Latin texts are Schulz's and mark passages he holds spurious. Bibliographic references in the footnotes keep their original form and abbreviations. Printed pagination is marked inline as [с. NN]. Obvious OCR defects in the source text layer were silently corrected against the sense (e.g. 'in hire civili' -> 'in iure civili', 'liber opcov' -> 'liber horon', 'maiores XXV minis' -> 'maiores XXV annis')."
+    }
+  ]
+}

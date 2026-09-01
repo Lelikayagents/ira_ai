@@ -1,20 +1,57 @@
 {
   "library": "ira_ai library",
   "description": "Source texts studied and stored for reuse. Each source lives in library/sources/<source-id>/.",
-  "updated": "2026-08-26",
+  "updated": "2026-09-01",
   "sources": [
     {
       "id": "lawyers-english-language-coursebook",
       "type": "book",
       "title": "The Lawyer's English Language Coursebook",
-      "authors": ["Catherine Mason", "Rosemary Atkins"],
+      "authors": [
+        "Catherine Mason",
+        "Rosemary Atkins"
+      ],
       "publisher": "Global Legal English Ltd",
       "year": 2007,
       "language": "en",
-      "topics": ["Legal English", "TOLES Foundation", "TOLES Higher", "English law"],
+      "topics": [
+        "Legal English",
+        "TOLES Foundation",
+        "TOLES Higher",
+        "English law"
+      ],
       "fragments_held": 2,
-      "pages_held": [1, 200],
+      "pages_held": [
+        1,
+        200
+      ],
       "path": "sources/lawyers-english-language-coursebook"
+    },
+    {
+      "id": "schulz-principles-of-roman-law",
+      "type": "book",
+      "title": "Principles of Roman Law",
+      "authors": [
+        "Fritz Schulz"
+      ],
+      "publisher": "Clarendon Press, Oxford",
+      "year": 1936,
+      "language": "en",
+      "topics": [
+        "Roman law",
+        "Legal history",
+        "Roman jurisprudence",
+        "Methodology of legal science"
+      ],
+      "fragments_held": 1,
+      "pages_held": [
+        40,
+        65
+      ],
+      "translations": [
+        "ru"
+      ],
+      "path": "sources/schulz-principles-of-roman-law"
     }
   ]
 }

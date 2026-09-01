@@ -14,12 +14,15 @@ library/
     fragments/fragment-NN.json  per-fragment manifest (pages, PDF hash, OCR settings)
     text/page-NNN.txt           one plain-text file per printed page
     units/<unit>.md             pages joined into one file per unit, for reading
+    translations/<lang>/*.md    translations of held material, one file per chapter/unit
 ```
 
 ## Conventions
 
-- **Page numbers are printed book pages.** For the scans in this library the PDF
-  page number equals the printed page number, so `page-073.txt` is book page 73.
+- **Page numbers are printed book pages.** In most scans here the PDF page number
+  equals the printed page number, so `page-073.txt` is book page 73. Where a fragment
+  starts mid-book the two differ; the offset is recorded in the source's
+  `metadata.json` and in its fragment manifest.
 - **A "fragment" is one delivered PDF chunk**, not a unit of the book. Fragments
   are numbered in the order they arrived and recorded in `fragments/`. A fragment
   can start and end mid-unit; `structure.json` says which units are complete.
@@ -29,6 +32,11 @@ library/
   only the text.
 - **`units/` is derived** from `text/` and can be regenerated at any time; treat
   `text/` as the source of truth.
+- **`translations/` is hand-written** and derived from nothing. Each file names the
+  pages it covers and the conventions it follows — what is left in the original
+  language, how footnotes and pagination are carried over. Where the raw OCR in `text/`
+  is defective the translation is corrected against the sense; `text/` itself is left
+  untouched.
 
 ## Adding a fragment
 

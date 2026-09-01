@@ -1,0 +1,154 @@
+{
+  "fragment": 1,
+  "source_id": "schulz-principles-of-roman-law",
+  "book_pages": {
+    "first": 40,
+    "last": 65
+  },
+  "content": "Chapter IV, 'Abstraction', complete.",
+  "pdf": {
+    "file_name": "b7838b65-Fritz_Schultz___Principles_of_Roman_Law5580.pdf",
+    "page_count": 26,
+    "sha256": "ca3929030095d23ac296f0a0fafb06dc90587636cde75d353708202dbe1462c8",
+    "producer": "iLovePDF",
+    "page_offset": "PDF page 1 == printed page 40"
+  },
+  "text_layer": {
+    "source": "embedded PDF text layer (no OCR needed)",
+    "extractor": "pypdf 6.x, PdfReader.extract_text()",
+    "quality": "raw extraction, not proof-read; the layer itself is imperfect OCR from the original scan"
+  },
+  "ingested_on": "2026-09-01",
+  "pages": [
+    {
+      "page": 40,
+      "pdf_page": 1,
+      "chars": 1637
+    },
+    {
+      "page": 41,
+      "pdf_page": 2,
+      "chars": 2029
+    },
+    {
+      "page": 42,
+      "pdf_page": 3,
+      "chars": 1948
+    },
+    {
+      "page": 43,
+      "pdf_page": 4,
+      "chars": 1999
+    },
+    {
+      "page": 44,
+      "pdf_page": 5,
+      "chars": 2259
+    },
+    {
+      "page": 45,
+      "pdf_page": 6,
+      "chars": 2469
+    },
+    {
+      "page": 46,
+      "pdf_page": 7,
+      "chars": 2359
+    },
+    {
+      "page": 47,
+      "pdf_page": 8,
+      "chars": 2727
+    },
+    {
+      "page": 48,
+      "pdf_page": 9,
+      "chars": 2223
+    },
+    {
+      "page": 49,
+      "pdf_page": 10,
+      "chars": 2178
+    },
+    {
+      "page": 50,
+      "pdf_page": 11,
+      "chars": 2157
+    },
+    {
+      "page": 51,
+      "pdf_page": 12,
+      "chars": 1856
+    },
+    {
+      "page": 52,
+      "pdf_page": 13,
+      "chars": 2149
+    },
+    {
+      "page": 53,
+      "pdf_page": 14,
+      "chars": 1991
+    },
+    {
+      "page": 54,
+      "pdf_page": 15,
+      "chars": 2070
+    },
+    {
+      "page": 55,
+      "pdf_page": 16,
+      "chars": 2019
+    },
+    {
+      "page": 56,
+      "pdf_page": 17,
+      "chars": 1809
+    },
+    {
+      "page": 57,
+      "pdf_page": 18,
+      "chars": 1837
+    },
+    {
+      "page": 58,
+      "pdf_page": 19,
+      "chars": 2620
+    },
+    {
+      "page": 59,
+      "pdf_page": 20,
+      "chars": 2683
+    },
+    {
+      "page": 60,
+      "pdf_page": 21,
+      "chars": 2726
+    },
+    {
+      "page": 61,
+      "pdf_page": 22,
+      "chars": 2705
+    },
+    {
+      "page": 62,
+      "pdf_page": 23,
+      "chars": 2716
+    },
+    {
+      "page": 63,
+      "pdf_page": 24,
+      "chars": 2420
+    },
+    {
+      "page": 64,
+      "pdf_page": 25,
+      "chars": 2054
+    },
+    {
+      "page": 65,
+      "pdf_page": 26,
+      "chars": 1916
+    }
+  ]
+}

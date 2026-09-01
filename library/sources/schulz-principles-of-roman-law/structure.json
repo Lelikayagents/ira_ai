@@ -1,0 +1,26 @@
+{
+  "source_id": "schulz-principles-of-roman-law",
+  "page_numbering": "printed book page == PDF page + 39",
+  "held_pages": [40, 65],
+  "units": [
+    {
+      "key": "ch-04-abstraction",
+      "unit": "IV",
+      "title": "Abstraction",
+      "first_page": 40,
+      "last_page": 65,
+      "held_pages": [40, 65],
+      "status": "held",
+      "sections": [
+        { "title": "Epigraphs and the case as starting point", "pages": [40, 41] },
+        { "title": "Private law seen through its remedies", "pages": [41, 43] },
+        { "title": "Avoidance of juristic definitions", "pages": [43, 48] },
+        { "title": "Avoidance of abstract legal rules", "pages": [48, 53] },
+        { "title": "Indifference to system", "pages": [53, 57] },
+        { "title": "Ulpian, D. 9. 2. 7-11, Latin with facing translation", "pages": [58, 62] },
+        { "title": "Analysis of the Ulpian passage", "pages": [63, 64] },
+        { "title": "Cicero's contrary ideal; defence of the casuistic method", "pages": [64, 65] }
+      ]
+    }
+  ]
+}

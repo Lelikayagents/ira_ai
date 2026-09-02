@@ -1,7 +1,16 @@
 {
   "source_id": "schulz-principles-of-roman-law",
-  "page_numbering": "printed book page == PDF page + 39",
-  "held_pages": [40, 65],
+  "page_numbering": "printed book page; each fragment's PDF carries its own offset (see fragment manifests)",
+  "held_pages": [
+    [
+      40,
+      65
+    ],
+    [
+      140,
+      163
+    ]
+  ],
   "units": [
     {
       "key": "ch-04-abstraction",
@@ -9,17 +18,152 @@
       "title": "Abstraction",
       "first_page": 40,
       "last_page": 65,
-      "held_pages": [40, 65],
+      "held_pages": [
+        40,
+        65
+      ],
       "status": "held",
       "sections": [
-        { "title": "Epigraphs and the case as starting point", "pages": [40, 41] },
-        { "title": "Private law seen through its remedies", "pages": [41, 43] },
-        { "title": "Avoidance of juristic definitions", "pages": [43, 48] },
-        { "title": "Avoidance of abstract legal rules", "pages": [48, 53] },
-        { "title": "Indifference to system", "pages": [53, 57] },
-        { "title": "Ulpian, D. 9. 2. 7-11, Latin with facing translation", "pages": [58, 62] },
-        { "title": "Analysis of the Ulpian passage", "pages": [63, 64] },
-        { "title": "Cicero's contrary ideal; defence of the casuistic method", "pages": [64, 65] }
+        {
+          "title": "Epigraphs and the case as starting point",
+          "pages": [
+            40,
+            41
+          ]
+        },
+        {
+          "title": "Private law seen through its remedies",
+          "pages": [
+            41,
+            43
+          ]
+        },
+        {
+          "title": "Avoidance of juristic definitions",
+          "pages": [
+            43,
+            48
+          ]
+        },
+        {
+          "title": "Avoidance of abstract legal rules",
+          "pages": [
+            48,
+            53
+          ]
+        },
+        {
+          "title": "Indifference to system",
+          "pages": [
+            53,
+            57
+          ]
+        },
+        {
+          "title": "Ulpian, D. 9. 2. 7-11, Latin with facing translation",
+          "pages": [
+            58,
+            62
+          ]
+        },
+        {
+          "title": "Analysis of the Ulpian passage",
+          "pages": [
+            63,
+            64
+          ]
+        },
+        {
+          "title": "Cicero's contrary ideal; defence of the casuistic method",
+          "pages": [
+            64,
+            65
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ch-08-liberty",
+      "unit": "VIII",
+      "title": "Liberty",
+      "first_page": 140,
+      "last_page": 163,
+      "held_pages": [
+        140,
+        163
+      ],
+      "status": "held",
+      "sections": [
+        {
+          "title": "Epigraphs; the Roman conception of libertas and its built-in limits",
+          "pages": [
+            140,
+            141
+          ]
+        },
+        {
+          "title": "Liberty in constitutional law: regnum rejected, the Principate, civitates liberae, peregrine communities",
+          "pages": [
+            141,
+            146
+          ]
+        },
+        {
+          "title": "The decline of civic self-government (Pliny's reports to Trajan)",
+          "pages": [
+            145,
+            146
+          ]
+        },
+        {
+          "title": "Individualism in private law: husband and wife, private associations, societas, coheirship",
+          "pages": [
+            146,
+            151
+          ]
+        },
+        {
+          "title": "Ownership: the conception, its limits, its protection, usucapio",
+          "pages": [
+            151,
+            155
+          ]
+        },
+        {
+          "title": "Obligations (solidary debts) and succession (testament, lex Falcidia, pupillary substitution)",
+          "pages": [
+            155,
+            157
+          ]
+        },
+        {
+          "title": "Mommsen's 1848 speech; Roman law and modern capitalism",
+          "pages": [
+            157,
+            158
+          ]
+        },
+        {
+          "title": "The counterweight of officium: pietas, fides, humanitas, abuse of right",
+          "pages": [
+            158,
+            159
+          ]
+        },
+        {
+          "title": "The individual and the State: no totalitarian polis, expropriation almost unknown, public gifts",
+          "pages": [
+            159,
+            163
+          ]
+        },
+        {
+          "title": "The absent legal guarantee: liberty vies with authority",
+          "pages": [
+            163,
+            163
+          ]
+        }
       ]
     }
   ]

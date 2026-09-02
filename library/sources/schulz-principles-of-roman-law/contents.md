@@ -1,9 +1,9 @@
 # Fritz Schulz, *Principles of Roman Law* — holdings
 
-Page numbers are printed book pages. The PDF of fragment 1 starts at printed page 40,
-so PDF page N corresponds to printed page N + 39.
+Page numbers are printed book pages. Each fragment is a slice of the same scan and has
+its own offset: fragment 1 starts at printed page 40, fragment 2 at printed page 140.
 
-Only the chapter marked **[held]** is in the library.
+Only the chapters marked **[held]** are in the library.
 
 ## IV. Abstraction — pp. 40–65 **[held]**
 
@@ -19,6 +19,20 @@ Only the chapter marked **[held]** is in the library.
 | 63–64 | Analysis of that passage: three sections, and where Ulpian's arrangement breaks down |
 | 64–65 | Post-classical systematization; Cicero's contrary ideal (*in artem redigere*) and the defence of the casuistic method |
 
+## VIII. Liberty — pp. 140–163 **[held]**
+
+| Pages | Section |
+| --- | --- |
+| 140 | Chapter opening; epigraphs (Cicero, *in Verrem*; Byron). *Libertas* as a bounded conception: not free is whoever has a *dominus* |
+| 141–146 | Liberty in constitutional law — *regnum* rejected, the Principate as no Dominate, *civitates liberae*, the peregrine communities, and the slow decline of civic self-government (Pliny's reports to Trajan) |
+| 146–151 | Individualism in private law — husband and wife, the poverty of the law of private associations, *societas*, coheirship |
+| 151–155 | Ownership: the conception is not the individualistic part, the law of ownership is; limits, duties, protection, *usucapio* |
+| 155–157 | Obligations (solidary debts avoided) and succession (the will as the normal case, *lex Falcidia*, pupillary substitution, no contract of succession) |
+| 157–158 | Mommsen's 1848 speech; none of the institutions of modern capitalism come from Roman law |
+| 158–159 | The counterweight: *pietas*, *fides*, *humanitas* — the *officium* and the ban on abuse of right |
+| 159–163 | The individual and the State — no totalitarian polis, expropriation almost unknown, public gifts freely given, and the absent legal guarantee |
+
 ## Not held
 
-Chapters I–III and V onwards, the front matter, and the indices are not in the library.
+Chapters I–III, V–VII and IX onwards, the front matter, and the indices are not in the
+library.

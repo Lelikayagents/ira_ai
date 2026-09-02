@@ -15,12 +15,12 @@
     "Roman jurisprudence",
     "Methodology of legal science"
   ],
-  "structure_note": "A series of chapters, each devoted to one governing principle of Roman law. The fragment held covers chapter IV, 'Abstraction' (pp. 40-65), on the Roman jurists' reluctance to define, to generalize, and to systematize.",
+  "structure_note": "A series of chapters, each devoted to one governing principle of Roman law. Two chapters are held: IV, 'Abstraction' (pp. 40-65), and VIII, 'Liberty' (pp. 140-163).",
   "scan": {
     "format": "PDF with an embedded text layer (OCR of a printed scan)",
-    "page_numbering": "PDF page 1 corresponds to printed book page 40",
+    "page_numbering": "Each fragment is a slice of the same scan and carries its own offset; fragment 1 starts at printed page 40, fragment 2 at printed page 140. The offset is recorded in each fragment manifest.",
     "producer_metadata": "iLovePDF",
-    "quality_note": "The embedded text layer is unproof-read OCR: ligatures, Latin and Greek words, italic footnote references and running heads are frequently mangled. Corrections were applied only in the translation, not in text/."
+    "quality_note": "The embedded text layer is unproof-read OCR: ligatures, Latin words, italic footnote references and running heads are frequently mangled, and Greek comes through as noise. Corrections were applied only in the translations, not in text/."
   },
   "fragments_held": [
     {
@@ -29,9 +29,16 @@
         40,
         65
       ]
+    },
+    {
+      "fragment": 2,
+      "book_pages": [
+        140,
+        163
+      ]
     }
   ],
-  "coverage_note": "Fragment 1 holds chapter IV ('Abstraction') complete, pp. 40-65, including its footnotes and the bilingual Latin/English reprint of D. 9. 2. 7. 1-8; 9 pr.-4; 11 pr.-5 on pp. 58-62. No other chapter is in the library.",
+  "coverage_note": "Fragment 1 holds chapter IV ('Abstraction') complete, pp. 40-65, including the bilingual Latin/English reprint of D. 9. 2. 7. 1-8; 9 pr.-4; 11 pr.-5 on pp. 58-62. Fragment 2 holds chapter VIII ('Liberty') complete, pp. 140-163. Footnotes are held for both. No other chapter is in the library.",
   "text_extraction": {
     "method": "pypdf PdfReader.extract_text() over the PDF's own text layer",
     "quality": "raw extraction, not proof-read",
@@ -43,6 +50,12 @@
       "path": "translations/ru/chapter-04-abstraction.md",
       "covers": "chapter IV, pp. 40-65, complete",
       "conventions": "Latin and Greek quotations and technical terms are left untranslated in their original form; square brackets inside Latin texts are Schulz's and mark passages he holds spurious. Bibliographic references in the footnotes keep their original form and abbreviations. Printed pagination is marked inline as [с. NN]. Obvious OCR defects in the source text layer were silently corrected against the sense (e.g. 'in hire civili' -> 'in iure civili', 'liber opcov' -> 'liber horon', 'maiores XXV minis' -> 'maiores XXV annis')."
+    },
+    {
+      "language": "ru",
+      "path": "translations/ru/chapter-08-liberty.md",
+      "covers": "chapter VIII, pp. 140-163, complete",
+      "conventions": "Same as the chapter IV translation. In addition, the Greek quotations in the footnotes (Aristot. Pol. 1317 b and 1310 a; Dio Cass. LVII. 8. 2; Soph. Antig. 737; Polyb. XXI. 22. 8) are unreadable in the source text layer and were restored from the passages Schulz cites; the file says so in its header. OCR defects corrected against the sense include 'frincefs' -> princeps, 'usucafio' -> usucapio, 'exceftio doli' -> exceptio doli, 'fietas' -> pietas, 'frovocatio' -> provocatio, 'civitates liberaes' -> civitates liberae."
     }
   ]
 }

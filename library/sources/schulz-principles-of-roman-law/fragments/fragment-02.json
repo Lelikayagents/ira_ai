@@ -1,0 +1,144 @@
+{
+  "fragment": 2,
+  "source_id": "schulz-principles-of-roman-law",
+  "book_pages": {
+    "first": 140,
+    "last": 163
+  },
+  "content": "Chapter VIII, 'Liberty', complete.",
+  "pdf": {
+    "file_name": "395c5f9b-Fritz_Schultz___Principles_of_Roman_Law159182.pdf",
+    "page_count": 24,
+    "sha256": "030bab0ea06615bdbbb26a842f24e1fab5a2d3c427ead4473f9d1e6f5c6774ec",
+    "producer": "iLovePDF",
+    "page_offset": "PDF page 1 == printed page 140"
+  },
+  "text_layer": {
+    "source": "embedded PDF text layer (no OCR needed)",
+    "extractor": "pypdf 6.x, PdfReader.extract_text()",
+    "quality": "raw extraction, not proof-read; Greek quotations in the footnotes come through badly garbled"
+  },
+  "ingested_on": "2026-09-02",
+  "pages": [
+    {
+      "page": 140,
+      "pdf_page": 1,
+      "chars": 2133
+    },
+    {
+      "page": 141,
+      "pdf_page": 2,
+      "chars": 2217
+    },
+    {
+      "page": 142,
+      "pdf_page": 3,
+      "chars": 2269
+    },
+    {
+      "page": 143,
+      "pdf_page": 4,
+      "chars": 1990
+    },
+    {
+      "page": 144,
+      "pdf_page": 5,
+      "chars": 2132
+    },
+    {
+      "page": 145,
+      "pdf_page": 6,
+      "chars": 1970
+    },
+    {
+      "page": 146,
+      "pdf_page": 7,
+      "chars": 1930
+    },
+    {
+      "page": 147,
+      "pdf_page": 8,
+      "chars": 1981
+    },
+    {
+      "page": 148,
+      "pdf_page": 9,
+      "chars": 2178
+    },
+    {
+      "page": 149,
+      "pdf_page": 10,
+      "chars": 2255
+    },
+    {
+      "page": 150,
+      "pdf_page": 11,
+      "chars": 2038
+    },
+    {
+      "page": 151,
+      "pdf_page": 12,
+      "chars": 2343
+    },
+    {
+      "page": 152,
+      "pdf_page": 13,
+      "chars": 2305
+    },
+    {
+      "page": 153,
+      "pdf_page": 14,
+      "chars": 2156
+    },
+    {
+      "page": 154,
+      "pdf_page": 15,
+      "chars": 2246
+    },
+    {
+      "page": 155,
+      "pdf_page": 16,
+      "chars": 1930
+    },
+    {
+      "page": 156,
+      "pdf_page": 17,
+      "chars": 1952
+    },
+    {
+      "page": 157,
+      "pdf_page": 18,
+      "chars": 1969
+    },
+    {
+      "page": 158,
+      "pdf_page": 19,
+      "chars": 2256
+    },
+    {
+      "page": 159,
+      "pdf_page": 20,
+      "chars": 2175
+    },
+    {
+      "page": 160,
+      "pdf_page": 21,
+      "chars": 2151
+    },
+    {
+      "page": 161,
+      "pdf_page": 22,
+      "chars": 2602
+    },
+    {
+      "page": 162,
+      "pdf_page": 23,
+      "chars": 2512
+    },
+    {
+      "page": 163,
+      "pdf_page": 24,
+      "chars": 2261
+    }
+  ]
+}

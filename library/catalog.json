@@ -1,7 +1,7 @@
 {
   "library": "ira_ai library",
   "description": "Source texts studied and stored for reuse. Each source lives in library/sources/<source-id>/.",
-  "updated": "2026-09-01",
+  "updated": "2026-09-02",
   "sources": [
     {
       "id": "lawyers-english-language-coursebook",
@@ -43,10 +43,16 @@
         "Roman jurisprudence",
         "Methodology of legal science"
       ],
-      "fragments_held": 1,
+      "fragments_held": 2,
       "pages_held": [
-        40,
-        65
+        [
+          40,
+          65
+        ],
+        [
+          140,
+          163
+        ]
       ],
       "translations": [
         "ru"

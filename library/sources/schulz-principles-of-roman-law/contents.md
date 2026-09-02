@@ -1,7 +1,7 @@
 # Fritz Schulz, *Principles of Roman Law* — holdings
 
 Page numbers are printed book pages. Each fragment is a slice of the same scan and has
-its own offset: fragment 1 starts at printed page 40, fragment 2 at printed page 140.
+its own offset: fragment 1 starts at printed page 40, fragment 2 at 140, fragment 3 at 223.
 
 Only the chapters marked **[held]** are in the library.
 
@@ -32,7 +32,21 @@ Only the chapters marked **[held]** are in the library.
 | 158–159 | The counterweight: *pietas*, *fides*, *humanitas* — the *officium* and the ban on abuse of right |
 | 159–163 | The individual and the State — no totalitarian polis, expropriation almost unknown, public gifts freely given, and the absent legal guarantee |
 
+## XI. Fidelity — pp. 223–238 **[held]**
+
+| Pages | Section |
+| --- | --- |
+| 223–224 | Chapter opening; epigraphs (Valerius Maximus; Cicero, *de officiis*). *Fides* as being bound by one's own word, and the Romans' boast of it |
+| 224–225 | What *fides* did to the law: the early recognition of the informal act-in-the-law — consensual and real contracts, *pacta praetoria*, *fideicommissum*, and the post-classical retreat from formalism |
+| 225–227 | The concluded contract binds: no right of withdrawal for breach, no notice in hire and lease, *ius paenitendi* as post-classical |
+| 227–228 | *Bona fides*: from keeping one's word to acting as honest people do |
+| 228–229 | Fidelity to oaths, with Cicero against the enforced-oath excuse |
+| 229–231 | Two rules of the doctrine of legal sources: the magistrate is bound by his own edict, and legal rules have no retroactive force |
+| 231–233 | Standing ties of fidelity outside contract — freedman and patron, patron and client, contracts of hospitality, the quaestor and his superior |
+| 233–236 | *Amicitia*: its duties, Cicero's letters, and the case of Metellus shielding Verres |
+| 236–238 | What the ties explain in Roman law — mandate and *negotiorum gestio*, personal security and *cautiones*, the *consilium*; 'Roman individualism' is a legend |
+
 ## Not held
 
-Chapters I–III, V–VII and IX onwards, the front matter, and the indices are not in the
-library.
+Chapters I–III, V–VII, IX–X and XII onwards, the front matter, and the indices are not in
+the library.

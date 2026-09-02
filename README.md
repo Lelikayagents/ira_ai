@@ -14,7 +14,7 @@ Working repository for the IRA AI project.
 | Source | Held | Format |
 | --- | --- | --- |
 | The Lawyer's English Language Coursebook (Mason & Atkins, Global Legal English, 2007) | printed pages 1–200 (fragments 1–2): front matter, units 1A–5B complete, unit 6A up to p. 200 | OCR plain text per page + per-unit markdown |
-| Principles of Roman Law (Fritz Schulz, Clarendon Press, 1936) | printed pages 40–65 and 140–163 (fragments 1–2): chapters IV, 'Abstraction', and VIII, 'Liberty', complete | extracted plain text per page + Russian translation |
+| Principles of Roman Law (Fritz Schulz, Clarendon Press, 1936) | printed pages 40–65, 140–163 and 223–238 (fragments 1–3): chapters IV, 'Abstraction', VIII, 'Liberty', and XI, 'Fidelity', complete | extracted plain text per page + Russian translation |
 
 ## Tools
 

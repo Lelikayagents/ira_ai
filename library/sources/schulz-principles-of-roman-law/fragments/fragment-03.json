@@ -1,0 +1,104 @@
+{
+  "fragment": 3,
+  "source_id": "schulz-principles-of-roman-law",
+  "book_pages": {
+    "first": 223,
+    "last": 238
+  },
+  "content": "Chapter XI, 'Fidelity', complete.",
+  "pdf": {
+    "file_name": "4b15cac5-Fritz_Schultz___Principles_of_Roman_Law248263.pdf",
+    "page_count": 16,
+    "sha256": "6e34d8874ea60c50990f1e0857f790741cbad9125d917177ea0ef1ba8ffd04de",
+    "producer": "iLovePDF",
+    "page_offset": "PDF page 1 == printed page 223"
+  },
+  "text_layer": {
+    "source": "embedded PDF text layer (no OCR needed)",
+    "extractor": "pypdf 6.x, PdfReader.extract_text()",
+    "quality": "raw extraction, not proof-read; p/f confusion is heavy in this fragment (stifulatio, exceftio, facta fraetoria) and the Greek is noise"
+  },
+  "ingested_on": "2026-09-02",
+  "pages": [
+    {
+      "page": 223,
+      "pdf_page": 1,
+      "chars": 1865
+    },
+    {
+      "page": 224,
+      "pdf_page": 2,
+      "chars": 1888
+    },
+    {
+      "page": 225,
+      "pdf_page": 3,
+      "chars": 2159
+    },
+    {
+      "page": 226,
+      "pdf_page": 4,
+      "chars": 2064
+    },
+    {
+      "page": 227,
+      "pdf_page": 5,
+      "chars": 2226
+    },
+    {
+      "page": 228,
+      "pdf_page": 6,
+      "chars": 2196
+    },
+    {
+      "page": 229,
+      "pdf_page": 7,
+      "chars": 2110
+    },
+    {
+      "page": 230,
+      "pdf_page": 8,
+      "chars": 2086
+    },
+    {
+      "page": 231,
+      "pdf_page": 9,
+      "chars": 1854
+    },
+    {
+      "page": 232,
+      "pdf_page": 10,
+      "chars": 1876
+    },
+    {
+      "page": 233,
+      "pdf_page": 11,
+      "chars": 2035
+    },
+    {
+      "page": 234,
+      "pdf_page": 12,
+      "chars": 1985
+    },
+    {
+      "page": 235,
+      "pdf_page": 13,
+      "chars": 2114
+    },
+    {
+      "page": 236,
+      "pdf_page": 14,
+      "chars": 2230
+    },
+    {
+      "page": 237,
+      "pdf_page": 15,
+      "chars": 1994
+    },
+    {
+      "page": 238,
+      "pdf_page": 16,
+      "chars": 745
+    }
+  ]
+}

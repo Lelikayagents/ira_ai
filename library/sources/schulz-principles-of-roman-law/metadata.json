@@ -15,10 +15,10 @@
     "Roman jurisprudence",
     "Methodology of legal science"
   ],
-  "structure_note": "A series of chapters, each devoted to one governing principle of Roman law. Two chapters are held: IV, 'Abstraction' (pp. 40-65), and VIII, 'Liberty' (pp. 140-163).",
+  "structure_note": "A series of chapters, each devoted to one governing principle of Roman law. Three chapters are held: IV, 'Abstraction' (pp. 40-65); VIII, 'Liberty' (pp. 140-163); and XI, 'Fidelity' (pp. 223-238).",
   "scan": {
     "format": "PDF with an embedded text layer (OCR of a printed scan)",
-    "page_numbering": "Each fragment is a slice of the same scan and carries its own offset; fragment 1 starts at printed page 40, fragment 2 at printed page 140. The offset is recorded in each fragment manifest.",
+    "page_numbering": "Each fragment is a slice of the same scan and carries its own offset; fragment 1 starts at printed page 40, fragment 2 at 140, fragment 3 at 223. The offset is recorded in each fragment manifest.",
     "producer_metadata": "iLovePDF",
     "quality_note": "The embedded text layer is unproof-read OCR: ligatures, Latin words, italic footnote references and running heads are frequently mangled, and Greek comes through as noise. Corrections were applied only in the translations, not in text/."
   },
@@ -36,9 +36,16 @@
         140,
         163
       ]
+    },
+    {
+      "fragment": 3,
+      "book_pages": [
+        223,
+        238
+      ]
     }
   ],
-  "coverage_note": "Fragment 1 holds chapter IV ('Abstraction') complete, pp. 40-65, including the bilingual Latin/English reprint of D. 9. 2. 7. 1-8; 9 pr.-4; 11 pr.-5 on pp. 58-62. Fragment 2 holds chapter VIII ('Liberty') complete, pp. 140-163. Footnotes are held for both. No other chapter is in the library.",
+  "coverage_note": "Fragment 1 holds chapter IV ('Abstraction') complete, pp. 40-65, including the bilingual Latin/English reprint of D. 9. 2. 7. 1-8; 9 pr.-4; 11 pr.-5 on pp. 58-62. Fragment 2 holds chapter VIII ('Liberty') complete, pp. 140-163. Fragment 3 holds chapter XI ('Fidelity') complete, pp. 223-238. Footnotes are held for all three. No other chapter is in the library.",
   "text_extraction": {
     "method": "pypdf PdfReader.extract_text() over the PDF's own text layer",
     "quality": "raw extraction, not proof-read",
@@ -56,6 +63,12 @@
       "path": "translations/ru/chapter-08-liberty.md",
       "covers": "chapter VIII, pp. 140-163, complete",
       "conventions": "Same as the chapter IV translation. In addition, the Greek quotations in the footnotes (Aristot. Pol. 1317 b and 1310 a; Dio Cass. LVII. 8. 2; Soph. Antig. 737; Polyb. XXI. 22. 8) are unreadable in the source text layer and were restored from the passages Schulz cites; the file says so in its header. OCR defects corrected against the sense include 'frincefs' -> princeps, 'usucafio' -> usucapio, 'exceftio doli' -> exceptio doli, 'fietas' -> pietas, 'frovocatio' -> provocatio, 'civitates liberaes' -> civitates liberae."
+    },
+    {
+      "language": "ru",
+      "path": "translations/ru/chapter-11-fidelity.md",
+      "covers": "chapter XI, pp. 223-238, complete",
+      "conventions": "Same as the other two chapters. Italian footnote quotations stay in Italian, as before. The Middle Low German verse from Reynke de Vos (p. 229) is kept in the original and its English gloss translated. Greek (Diod. XXIII. 1; Polyb. VI. 56; Cic. Lael. VI. 22) is unreadable in the source text layer and was restored from the passages cited. The text layer confuses p and f heavily here: 'stifulatio' -> stipulatio, 'exceftio' -> exceptio, 'facta fraetoria' -> pacta praetoria, 'recefia argentarii' -> receptum argentarii, 'res nec mancifi' -> res nec mancipi, 'factum de non fetendo' -> pactum de non petendo."
     }
   ]
 }

@@ -9,6 +9,10 @@
     [
       140,
       163
+    ],
+    [
+      223,
+      238
     ]
   ],
   "units": [
@@ -162,6 +166,83 @@
           "pages": [
             163,
             163
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ch-11-fidelity",
+      "unit": "XI",
+      "title": "Fidelity",
+      "first_page": 223,
+      "last_page": 238,
+      "held_pages": [
+        223,
+        238
+      ],
+      "status": "held",
+      "sections": [
+        {
+          "title": "Epigraphs; fides as being bound by one's word",
+          "pages": [
+            223,
+            224
+          ]
+        },
+        {
+          "title": "Early recognition of the informal act-in-the-law",
+          "pages": [
+            224,
+            225
+          ]
+        },
+        {
+          "title": "The binding contract: no unilateral withdrawal, no notice in hire and lease",
+          "pages": [
+            225,
+            227
+          ]
+        },
+        {
+          "title": "Bona fides, and fidelity to oaths",
+          "pages": [
+            227,
+            229
+          ]
+        },
+        {
+          "title": "Legal sources: the magistrate bound by his edict; no retroactivity",
+          "pages": [
+            229,
+            231
+          ]
+        },
+        {
+          "title": "Permanent ties of fidelity: freedman and patron, patron and client, hospitality, the quaestor",
+          "pages": [
+            231,
+            233
+          ]
+        },
+        {
+          "title": "Amicitia and its duties, from Cicero's letters to the Verres case",
+          "pages": [
+            233,
+            236
+          ]
+        },
+        {
+          "title": "What this explains in Roman law: mandate, negotiorum gestio, cautiones, the consilium",
+          "pages": [
+            236,
+            238
+          ]
+        },
+        {
+          "title": "'Roman individualism' is a legend",
+          "pages": [
+            238,
+            238
           ]
         }
       ]

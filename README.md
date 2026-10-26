@@ -7,6 +7,7 @@ Working repository for the IRA AI project.
 | Path | What it is |
 | --- | --- |
 | [`library/`](library/) | Stored source texts — see [`library/README.md`](library/README.md) for the layout and how to add a fragment |
+| [`german/`](german/) | German study plan (A1 → A2 by 31.12.2026): day-by-day plan, daily lessons, progress tracker — see [`german/README.md`](german/README.md) |
 | `tools/` | Ingest and build scripts for the library |
 
 ## Library at a glance
